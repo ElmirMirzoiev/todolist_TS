@@ -1,0 +1,1 @@
+This is my personal todolist_app, created by using react, typescript, redux. Elmir Mirzoiev. Front-end developer.
